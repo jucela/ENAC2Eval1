@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ENA_EVAL1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- EVAL 01 -->
+    <string name="eval01_p01">1.Marque la respuesta correcta con verdadero (V) o Falso (F), en cada alternativa.(2 puntos)</string>
+    <string name="eval01_p01_puntaje">2 puntos</string>
+    <string name="eval01_p01_txt">1. De la observación de los gráficos podemos concluir: (2 puntos )</string>
+    <string name="eval01_p01_sub01">a)	Cuando Las líneas sufren una sobre posición, denotan la existencia de un cerro alto. </string>
+    <string name="eval01_p01_sub02">b)	Cuando las curvas se muestran más juntas, la pendiente en el terreno es menor.</string>
+    <string name="eval01_p01_sub03">c)	Las curvas totalmente abiertas representan las cumbres de las elevaciones. </string>
+    <string name="eval01_p01_sub04">d)	Las curvas de nivel son líneas acotadas imaginarias que representan la variación del
+relieve en el terreno.</string>
+
+    <string name="eval01_p02">2.	Parte del mapa distrital donde se registra el nombre del distrito, de la provincia y del departamento.(2 puntos) </string>
+    <string name="eval01_p02_puntaje">2 puntos</string>
+    <string name="eval01_p02_op01">a)	Distritos colindantes</string>
+    <string name="eval01_p02_op02">b)	Ubicación muestral</string>
+    <string name="eval01_p02_op03">c)	Ubicación geográfica</string>
+    <string name="eval01_p02_op04">d)	Membrete</string>
+    <string name="eval01_p02_op05">e)	Leyenda</string>
+
+    <string name="eval01_p03">3.	Según el dibujo; para la ubicación de un centro poblado, en muchas ocasiones la ubicación tiene que ver mucho con la elevación del terreno, por lo tanto mencionar el nombre de cada código que se encuentra en el paisaje. (2 puntos) </string>
+    <string name="eval01_p03_puntaje">2 puntos</string>
+    <string name="eval01_p03_op01">a)	Falda</string>
+    <string name="eval01_p03_op02">b)	Quebrada</string>
+    <string name="eval01_p03_op03">c)	Cima, cumbre, altura  </string>
+    <string name="eval01_p03_op04">d)   Pie de cerro  </string>
+
+
+    <string name="eval01_p04">4. Si se tiene un plano de imagen a escala 1/5,000 y se desea ubicar las coordenadas (N, E) del punto indicado en la imagen, Sabiendo que el intervalo de la cuadricula es 500 metros en el terreno y 50 centímetros en la imagen ¿Hallar la coordenada del punto B que se muestra en la imagen?.(4 puntos)</string>
+    <string name="eval01_p04_puntaje">3 puntos</string>
+    <string name="eval01_p04_op01">a)	372570 , 8488850</string>
+    <string name="eval01_p04_op02">b)	372075 , 8488615</string>
+    <string name="eval01_p04_op03">c)	372088 , 8488600</string>
+    <string name="eval01_p04_op04">d)   372566 , 8488608</string>
+
+    <string name="eval01_p05">5.	Para cada una de las afirmaciones siguientes escriba “V” si es verdadero o “F” si es falso, según corresponda (10 puntos)  </string>
+    <string name="eval01_p05_puntaje">11 puntos</string>
+    <string name="eval01_p05_sub01">1) Cartografía es la disciplina o técnica que se encarga de describir de manera detallada la superficie de un determinado terreno o territorio.</string>
+    <string name="eval01_p05_sub02">2) Cuenca es el territorio delimitado por línea de cumbres, también llamada divisoria de aguas, cuyas aguas fluyen a un mismo río, lago o mar.</string>
+    <string name="eval01_p05_sub03">3) Escala numérica, indica la distancia en el terreno.</string>
+    <string name="eval01_p05_sub04">4) Los límites del conglomerado están representados con una línea discontinua de color verde.</string>
+    <string name="eval01_p05_sub05">5) La orientación del terreno solo se puede realizar mediante los puntos cardinales y utilizando el norte magnético del croquis o imagen satelital del conglomerado. </string>
+    <string name="eval01_p05_sub06">6) La quebrada es una corriente de agua de menor cauce que un río, nace en las alturas y por lo general se une con otras corrientes de agua hasta formar un río.  </string>
+    <string name="eval01_p05_sub07">7) Si en el navegador GPS aparece un mensaje de colocar el navegador GPS en DEMO, no deberá aceptarlo.</string>
+    <string name="eval01_p05_sub08">8)La toponimia es el nombre con el que se conoce a cada accidente natural; cerro, quebrada, río, pampa; artificial; capital de distrito, anexo, caserío, comunidad, hito, canal de irrigación, puente, hacienda, etc. </string>
+    <string name="eval01_p05_sub09">9)Posterior al cálculo de área, el encuestador/a tomará un punto GPS al interior de la parcela (a 20 metros dentro de la parcela). </string>
+    <string name="eval01_p05_sub10">10)El diagrama de compilación, da cuenta de las fuentes cartográficas utilizadas para su elaboración. </string>
+    <string name="eval01_p05_sub11">11) La confluencia es la cordillera o ramal que separa las vertientes, haciendo que las aguas corran en direcciones opuestas en un territorio.</string>
+
+    <string-array name="eval01_pregunta_4_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <string name="verdadero">VERDADERO</string>
+    <string name="falso">FALSO</string>
+
+    <string-array name="cuestionario1_pregunta_4_opciones">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+</resources>

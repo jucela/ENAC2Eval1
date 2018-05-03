@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#04B486"
+    android:orientation="vertical"
+    android:padding="@dimen/margin_material"
+    tools:context="com.example.ksanchez.enapp.activities.UsuarioActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/texto_medio"
+        android:text="BIENVENIDO A LA EVALUACIÓN DE INSTRUCTORES ENA 2018"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Ingresa tus datos"
+        android:layout_marginBottom="@dimen/layout_margin"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DNI"/>
+    <EditText
+        android:padding="5dp"
+        android:id="@+id/txtDni"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:inputType="numberPassword"
+        android:background="@drawable/caja_de_texto"
+        android:layout_marginBottom="@dimen/layout_margin"/>
+
+    <EditText
+        android:id="@+id/txtNombres"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="@dimen/layout_margin"
+        android:layout_height="30dp"
+        android:padding="5dp"
+        android:inputType="text"
+        android:background="@drawable/caja_de_texto"/>
+
+    <EditText
+        android:id="@+id/txtApellidos"
+        android:layout_marginBottom="@dimen/layout_margin"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:padding="5dp"
+        android:inputType="text"
+        android:background="@drawable/caja_de_texto"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AULA"/>
+    <EditText
+        android:id="@+id/txtAula"
+        android:layout_marginBottom="@dimen/layout_margin"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:padding="5dp"
+        android:inputType="text"
+        android:background="@drawable/caja_de_texto"/>
+    <Button
+        android:id="@+id/btnIniciar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INICIAR EVALUACIÓN"/>
+
+</LinearLayout>
